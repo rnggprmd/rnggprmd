@@ -16,6 +16,4 @@ I have a strong interest in Web Development, Networking, and IT Support. I enjoy
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="2000">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rnggprmd&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
