@@ -1,4 +1,4 @@
-# yoll ssupp Guys!
+# <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50"> yoll ssupp Guys!
 I have a strong interest in Web Development, Networking, and IT Support. I enjoy learning how to build and manage responsive and functional websites, as well as understanding the importance of stable network infrastructure to support technological operations. Additionally, I am interested in providing technical support and IT solutions to ensure systems run smoothly and efficiently. These three areas complement each other and give me a comprehensive understanding of the world of information technology.
 
 # Socials:
